@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.example.nhat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Nhat0501ApplicationTests {
+class NhatApplicationTests {
 
 	@Test
 	void contextLoads() {
